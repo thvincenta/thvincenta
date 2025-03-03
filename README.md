@@ -27,9 +27,9 @@ Visual Studio
 Стать разработчиком и работать с интересными проектами.
 
 ## Мои проекты
-1. **[Footprint](https://github.com/69Loony69/VeterinaryClinic)**  
+1. **[Footprint](https://github.com/thvincenta/Footprint)**  
    Информационная система для обувного магазина. Реализован интерфейс на WPF и подключена база данных SQL.  
-2. **[Footprint 1С](https://github.com/69Loony69/VeterinaryClinic_1-)**  
+2. **[Footprint 1С](https://github.com/thvincenta/Footprint-1C)**  
    Конфигурация 1С для обувного магазина.
 
 ## Контакты
