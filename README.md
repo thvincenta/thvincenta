@@ -27,12 +27,13 @@ Visual Studio
 Стать разработчиком и работать с интересными проектами.
 
 ## Мои проекты
-1. **[Life](https://github.com/thvincenta/Life)**
-   Игровое приложение "Жизнь".
-2. **[Footprint](https://github.com/thvincenta/Footprint)**  
+1. **[Footprint](https://github.com/thvincenta/Footprint)**  
    Информационная система для обувного магазина. Реализован интерфейс на WPF и подключена база данных SQL.  
-3. **[Footprint 1С](https://github.com/thvincenta/Footprint-1C)**  
+2. **[Footprint 1С](https://github.com/thvincenta/Footprint-1C)**  
    Конфигурация 1С для обувного магазина.
+3. **[Life](https://github.com/thvincenta/Life)**
+
+   Игровое приложение "Жизнь".
 
 ## Контакты
 - **Email**: [viktoriaisaeva0807@gmail.com](viktoriaisaeva0807@gmail.com)  
